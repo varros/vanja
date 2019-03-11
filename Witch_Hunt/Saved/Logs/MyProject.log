@@ -1,0 +1,1822 @@
+﻿Log file open, 03/11/19 15:19:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.396620
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.098s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Engine.ini]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Engine.ini]
+[2019.03.11-14.19.41:180][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Engine.ini]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Engine.ini]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.11-14.19.41:180][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Engine.ini]
+[2019.03.11-14.19.41:180][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Engine.ini]
+[2019.03.11-14.19.41:182][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Scalability.ini]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Scalability.ini]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Scalability.ini]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Scalability.ini]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.11-14.19.41:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Scalability.ini]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Scalability.ini]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Scalability.ini]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.11-14.19.41:183][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.11-14.19.41:183][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.11-14.19.41:183][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.11-14.19.41:189][  0]LogHAL: Display: Platform has ~ 16 GB [17018638336 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.11-14.19.41:189][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.11-14.19.41:189][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.11-14.19.41:190][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Scalability.ini]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Scalability.ini]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Scalability.ini]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Scalability.ini]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Scalability.ini]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Scalability.ini]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Scalability.ini]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.11-14.19.41:190][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.11-14.19.41:191][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.11-14.19.41:191][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Config/Windows/Engine.ini]
+[2019.03.11-14.19.41:191][  0]LogInit: Computer: MSI
+[2019.03.11-14.19.41:191][  0]LogInit: User: vanja
+[2019.03.11-14.19.41:191][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.03.11-14.19.41:191][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.11-14.19.41:191][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.03.11-14.19.41:191][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.11-14.19.41:191][  0]LogMemory: Process Physical Memory: 103.60 MB used, 103.61 MB peak
+[2019.03.11-14.19.41:191][  0]LogMemory: Process Virtual Memory: 86.18 MB used, 86.18 MB peak
+[2019.03.11-14.19.41:191][  0]LogMemory: Physical Memory: 7851.52 MB used,  8378.71 MB free, 16230.24 MB total
+[2019.03.11-14.19.41:191][  0]LogMemory: Virtual Memory: 4662.29 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.03.11-14.19.41:808][  0]LogInit: Using OS detected language (nb-NO).
+[2019.03.11-14.19.41:808][  0]LogInit: Using OS detected locale (nb-NO).
+[2019.03.11-14.19.41:808][  0]LogTextLocalizationManager: No localization for 'nb-NO' exists, so 'en' will be used for the language.
+[2019.03.11-14.19.42:113][  0]LogStreaming: Display: Took  0.306s to InitEngineTextLocalization.
+[2019.03.11-14.19.42:114][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.11-14.19.42:152][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.11-14.19.42:152][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.11-14.19.42:335][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.11-14.19.42:335][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.11-14.19.42:397][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.03.11-14.19.42:397][  0]LogD3D11RHI:       8081/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.11-14.19.42:407][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.03.11-14.19.42:407][  0]LogD3D11RHI:       128/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.11-14.19.42:409][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.11-14.19.42:409][  0]LogD3D11RHI:       0/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.11-14.19.42:409][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.11-14.19.42:434][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.11-14.19.42:434][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.11-14.19.42:434][  0]LogWindows: EnumDisplayDevices:
+[2019.03.11-14.19.42:435][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.03.11-14.19.42:435][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.03.11-14.19.42:435][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.03.11-14.19.42:435][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.11-14.19.42:435][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.11-14.19.42:436][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.11-14.19.42:436][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.11-14.19.42:436][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.03.11-14.19.42:436][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.03.11-14.19.42:436][  0]LogD3D11RHI:   Driver Version: 418.81 (internal:25.21.14.1881, unified:418.81)
+[2019.03.11-14.19.42:436][  0]LogD3D11RHI:      Driver Date: 1-30-2019
+[2019.03.11-14.19.42:436][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.03.11-14.19.42:471][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.11-14.19.42:483][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.11-14.19.42:763][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.11-14.19.42:774][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.11-14.19.42:785][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.11-14.19.42:796][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.11-14.19.42:807][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.11-14.19.42:818][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.11-14.19.42:829][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.11-14.19.42:840][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.11-14.19.42:846][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:907][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-14.19.42:908][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.11-14.19.42:964][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.11-14.19.42:964][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.11-14.19.42:983][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.11-14.19.42:983][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.11-14.19.42:994][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.11-14.19.43:004][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.11-14.19.43:014][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.11-14.19.43:024][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.11-14.19.43:061][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.11-14.19.43:061][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.11-14.19.43:061][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.11-14.19.43:112][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Intermediate/Shaders/WorkingDirectory/19816/).
+[2019.03.11-14.19.43:112][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vanja/AppData/Local/Temp/UnrealShaderWorkingDir/2E8C1CEB4D046B0F7B8608B3D0259B10/'.
+[2019.03.11-14.19.43:114][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.11-14.19.43:114][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.11-14.19.43:114][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.11-14.19.43:549][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.11-14.19.43:589][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/vanja/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.11-14.19.43:589][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vanja/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.11-14.19.43:590][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.11-14.19.43:590][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.11-14.19.43:590][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.11-14.19.43:590][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.11-14.19.43:601][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.11-14.19.43:601][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.11-14.19.43:601][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.11-14.19.43:612][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vanja/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.11-14.19.43:612][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.11-14.19.43:612][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.11-14.19.43:631][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.11-14.19.43:632][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.11-14.19.43:633][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.11-14.19.43:716][  0]LogAssetRegistry: FAssetRegistry took 0.0317 seconds to start up
+[2019.03.11-14.19.44:014][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.11-14.19.44:153][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.11-14.19.44:156][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.11-14.19.44:156][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.11-14.19.44:156][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.11-14.19.44:156][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.11-14.19.44:169][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1637960414)
+[2019.03.11-14.19.44:568][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.034019 seconds
+[2019.03.11-14.19.44:572][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.11-14.19.44:572][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.03.11-14.19.44:572][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.11-14.19.45:331][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.11-14.19.45:343][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.11-14.19.45:957][  0]SourceControl: Source control is disabled
+[2019.03.11-14.19.45:957][  0]SourceControl: Source control is disabled
+[2019.03.11-14.19.45:958][  0]SourceControl: Source control is disabled
+[2019.03.11-14.19.45:959][  0]SourceControl: Source control is disabled
+[2019.03.11-14.19.46:114][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.11-14.19.46:190][  0]LogOcInput: OculusInput pre-init called
+[2019.03.11-14.19.46:317][  0]LogEngine: Initializing Engine...
+[2019.03.11-14.19.46:317][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.11-14.19.46:318][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.11-14.19.46:318][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.11-14.19.46:318][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.11-14.19.46:318][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.11-14.19.46:519][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.11-14.19.46:531][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.11-14.19.46:550][  0]LogInit: XAudio2 using 'Høyttalere (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.11-14.19.46:566][  0]LogInit: FAudioDevice initialized.
+[2019.03.11-14.19.46:566][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.11-14.19.46:635][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/vanja/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.11-14.19.46:640][  0]LogInit: Texture streaming: Enabled
+[2019.03.11-14.19.46:656][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.11-14.19.46:669][  0]LogInit: Transaction tracking system initialized
+[2019.03.11-14.19.46:690][  0]BlueprintLog: New page: Editor Load
+[2019.03.11-14.19.46:754][  0]LocalizationService: Localization service is disabled
+[2019.03.11-14.19.47:127][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/' took 0.01s
+[2019.03.11-14.19.47:127][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.11-14.19.47:127][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.11-14.19.47:127][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.11-14.19.47:127][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.11-14.19.47:127][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.11-14.19.47:127][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.11-14.19.47:127][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.11-14.19.47:237][  0]SourceControl: Source control is disabled
+[2019.03.11-14.19.47:237][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.11-14.19.47:238][  0]LightingResults: New page: Lighting Build
+[2019.03.11-14.19.47:240][  0]MapCheck: New page: Map Check
+[2019.03.11-14.19.47:240][  0]LightingResults: New page: Lighting Build
+[2019.03.11-14.19.47:382][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.03.11-14.19.47:387][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.11-14.19.47:412][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.11-14.19.47:412][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,145ms to complete.
+[2019.03.11-14.19.47:412][  0]LogFileHelpers: Loading map 'Template_Default' took 0.174
+[2019.03.11-14.19.47:497][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-14.19.47:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-14.19.47:509][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-14.19.47:515][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-14.19.47:520][  0]LogCollectionManager: Loaded 0 collections in 0.001680 seconds
+[2019.03.11-14.19.47:535][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Collections/' took 0.01s
+[2019.03.11-14.19.47:535][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Developers/vanja/Collections/' took 0.00s
+[2019.03.11-14.19.47:535][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Collections/' took 0.00s
+[2019.03.11-14.19.47:535][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.11-14.19.47:543][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2651 classes and 620 folders.
+[2019.03.11-14.19.47:548][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.11-14.19.47:549][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:550][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:550][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:550][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:553][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:553][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:553][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:554][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:554][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:555][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:555][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:555][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:556][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:556][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:558][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:558][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:559][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:559][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.11-14.19.47:591][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.11-14.19.47:595][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.03.11-14.19.47:611][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.11-14.19.47:612][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.11-14.19.47:617][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.11-14.19.47:692][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.03.11-14.19.47:815][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.19.47:834][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.03.11-14.19.47:867][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.03.11-14.19.47:867][  0]LogLoad: (Engine Initialization) Total time: 8.47 seconds
+[2019.03.11-14.19.47:867][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.11-14.19.47:930][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.11-14.19.47:962][  1]LogAssetRegistry: Asset discovery search completed in 4.2693 seconds
+[2019.03.11-14.19.47:964][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.11-14.19.47:964][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2019.03.11-14.19.50:531][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.19.50:606][285]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.11-14.19.52:486][490]LogAIModule: Creating AISystem for world Level
+[2019.03.11-14.19.56:520][969]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.11-14.19.56:526][969]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Level.Level
+[2019.03.11-14.19.56:550][969]Cmd: MAP LOAD FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.11-14.19.56:550][969]LightingResults: New page: Lighting Build
+[2019.03.11-14.19.56:550][969]LoadErrors: New page: Loading map: Level.umap
+[2019.03.11-14.19.56:551][969]MapCheck: New page: Map Check
+[2019.03.11-14.19.56:551][969]LightingResults: New page: Lighting Build
+[2019.03.11-14.19.56:576][969]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.11-14.19.56:610][969]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.11-14.19.56:611][969]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,123ms to complete.
+[2019.03.11-14.19.56:611][969]LogFileHelpers: Loading map 'Level' took 0.062
+[2019.03.11-14.22.49:253][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.23.10:637][758]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Gjerde.fbx)
+[2019.03.11-14.23.10:649][758]LogFbx: Loading FBX Scene from ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Gjerde.fbx
+[2019.03.11-14.23.10:654][758]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.11-14.23.12:508][758]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.11-14.23.12:628][758]LogMaterial: Display: Missing cached shader map for material Gjerde1, compiling. 
+[2019.03.11-14.23.12:667][758]LogFbx: Warning: Triangulating static mesh gjerde:polySurface6
+[2019.03.11-14.23.12:673][758]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.11-14.23.12:673][758]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.11-14.23.12:673][758]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.11-14.23.12:679][758]LogStaticMesh: Building static mesh Gjerde...
+[2019.03.11-14.23.12:683][758]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Gjerde/Gjerde.Gjerde
+[2019.03.11-14.23.18:652][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.23.18:831][455]LogActorFactory: Actor Factory created Gjerde
+[2019.03.11-14.23.20:529][658]LogActorFactory: Actor Factory created Gjerde
+[2019.03.11-14.23.27:219][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.23.29:277][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gjerde)
+[2019.03.11-14.23.38:239][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.23.39:019][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gjerde)
+[2019.03.11-14.23.39:867][922]Cmd: DELETE
+[2019.03.11-14.23.39:867][922]Cmd: ACTOR DELETE
+[2019.03.11-14.23.39:871][922]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-14.23.39:893][922]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.03.11-14.23.40:655][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.23.40:994][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.23.41:901][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gjerde2)
+[2019.03.11-14.24.44:562][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.24.48:837][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.24.49:303][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.24.49:703][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.24.50:059][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gjerde3)
+[2019.03.11-14.24.55:122][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.24.57:059][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.24.57:409][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.24.57:779][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.24.58:264][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.24.58:582][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.24.59:034][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.24.59:405][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gjerde3)
+[2019.03.11-14.25.03:292][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.25.08:915][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.25.09:365][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gjerde3)
+[2019.03.11-14.25.13:681][  0]Cmd: TRANSACTION UNDO
+[2019.03.11-14.25.13:681][  0]LogEditorTransaction: Undo Rotate Actors
+[2019.03.11-14.25.14:525][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.25.29:331][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tre02)
+[2019.03.11-14.25.43:067][457]Cmd: TRANSACTION UNDO
+[2019.03.11-14.25.43:067][457]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.25.45:315][698]Cmd: TRANSACTION UNDO
+[2019.03.11-14.25.45:315][698]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.25.47:220][912]Cmd: TRANSACTION UNDO
+[2019.03.11-14.25.47:220][912]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.25.51:097][348]Cmd: TRANSACTION UNDO
+[2019.03.11-14.25.51:097][348]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.25.52:618][500]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.25.53:797][615]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.25.53:817][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-14.25.53:936][615]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Level17B9C15A458BF9483951BB90C465038C.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap'
+[2019.03.11-14.25.53:948][615]LogFileHelpers: Saving map 'Level' took 0.131
+[2019.03.11-14.25.53:987][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Gjerde/Gjerde1" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Gjerde/Gjerde1.uasset" SILENT=true
+[2019.03.11-14.25.53:997][615]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Gjerde1263F60B8477E06D878736E96F0529492.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Gjerde/Gjerde1.uasset'
+[2019.03.11-14.25.54:033][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Gjerde/Gjerde" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Gjerde/Gjerde.uasset" SILENT=true
+[2019.03.11-14.25.54:043][615]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Gjerde31A1586E404FF5A89DFE8999CA646F19.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Gjerde/Gjerde.uasset'
+[2019.03.11-14.25.58:004][ 73]Cmd: TRANSACTION UNDO
+[2019.03.11-14.25.58:004][ 73]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.26.00:127][299]Cmd: TRANSACTION UNDO
+[2019.03.11-14.26.00:127][299]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.26.04:494][719]Cmd: TRANSACTION UNDO
+[2019.03.11-14.26.04:494][719]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.26.08:285][146]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.11-14.26.09:088][232]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.11-14.26.11:996][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tre02)
+[2019.03.11-14.26.16:425][100]Cmd: TRANSACTION UNDO
+[2019.03.11-14.26.16:425][100]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.26.19:726][454]Cmd: DELETE
+[2019.03.11-14.26.19:726][454]Cmd: ACTOR DELETE
+[2019.03.11-14.26.19:728][454]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-14.26.19:750][454]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.03.11-14.26.23:541][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.27.19:629][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TreFallen2)
+[2019.03.11-14.27.49:434][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.27.49:672][360]LogActorFactory: Actor Factory created Gjerde
+[2019.03.11-14.27.50:963][504]LogActorFactory: Actor Factory created Gjerde
+[2019.03.11-14.28.42:062][995]Cmd: DELETE
+[2019.03.11-14.28.42:063][995]Cmd: ACTOR DELETE
+[2019.03.11-14.28.42:065][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-14.28.42:088][995]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.03.11-14.28.48:321][291]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.28.48:732][336]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.28.49:216][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gjerde)
+[2019.03.11-14.28.58:304][467]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.28.58:995][546]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.28.59:471][601]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.28.59:763][634]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.29.00:097][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gjerde)
+[2019.03.11-14.29.30:113][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stokk02)
+[2019.03.11-14.29.36:083][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.29.36:517][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gjerde)
+[2019.03.11-14.30.08:440][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.30.12:541][556]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.30.14:073][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.30.15:733][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.30.16:679][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.30.16:758][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.30.18:021][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.30.20:662][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.30.21:057][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gjerde)
+[2019.03.11-14.31.23:821][244]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Level01)
+[2019.03.11-14.31.23:858][244]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.31.26:689][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.31.27:104][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gjerde)
+[2019.03.11-14.31.33:538][345]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gjerde)
+[2019.03.11-14.31.33:558][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.31.52:525][ 14]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gjerde)
+[2019.03.11-14.31.52:546][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.31.58:002][623]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.32.00:954][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gjerde)
+[2019.03.11-14.32.01:544][ 39]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gjerde)
+[2019.03.11-14.32.01:566][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.32.03:659][251]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.34.25:343][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gjerde)
+[2019.03.11-14.34.53:082][ 95]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.34.54:590][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.34.59:021][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gjerde4)
+[2019.03.11-14.35.05:671][580]Cmd: TRANSACTION UNDO
+[2019.03.11-14.35.05:671][580]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.35.25:802][935]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.35.33:872][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gjerde5)
+[2019.03.11-14.35.44:774][182]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.35.56:091][517]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.35.59:758][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.36.08:598][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.36.27:557][375]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.36.27:695][375]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Level_Auto14A955CD247448E1421A49A9CA112072E.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Autosaves/Game/Maps/Level_Auto1.umap'
+[2019.03.11-14.36.27:697][375]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level' took 0.123
+[2019.03.11-14.36.27:697][375]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.123
+[2019.03.11-14.36.27:811][381]Cmd: TRANSACTION UNDO
+[2019.03.11-14.36.27:811][381]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.36.29:089][516]Cmd: TRANSACTION UNDO
+[2019.03.11-14.36.29:089][516]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.11-14.36.29:623][577]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.36.46:144][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.36.55:799][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.36.55:813][821]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Tre05.fbx)
+[2019.03.11-14.36.55:824][821]LogFbx: Loading FBX Scene from ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Tre05.fbx
+[2019.03.11-14.36.55:829][821]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.11-14.36.57:508][821]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.11-14.36.57:530][821]LogFbx: Warning: Triangulating static mesh busker:pCylinder7
+[2019.03.11-14.36.57:538][821]LogStaticMesh: Building static mesh Tre05...
+[2019.03.11-14.36.57:541][821]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/Tre05.Tre05
+[2019.03.11-14.37.04:312][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-14.37.04:430][498]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/LevelE3AE7DFB4A00148105F8EF968EC8F4AB.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap'
+[2019.03.11-14.37.04:442][498]LogFileHelpers: Saving map 'Level' took 0.129
+[2019.03.11-14.37.04:463][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/Tre05" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Tree/Tre05.uasset" SILENT=true
+[2019.03.11-14.37.04:473][498]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Tre05B7CABC124196C60952FFC283D077EBF3.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Tree/Tre05.uasset'
+[2019.03.11-14.37.06:458][694]LogActorFactory: Actor Factory created Tre05
+[2019.03.11-14.37.07:444][798]LogActorFactory: Actor Factory created Tre05
+[2019.03.11-14.37.33:737][913]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.37.34:556][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tre05)
+[2019.03.11-14.37.43:426][ 47]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.38.19:167][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.38.22:177][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.38.22:327][213]LogActorFactory: Actor Factory created Tre04
+[2019.03.11-14.38.23:819][380]LogActorFactory: Actor Factory created Tre04
+[2019.03.11-14.38.44:529][831]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.38.46:643][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tre04)
+[2019.03.11-14.38.53:242][852]Cmd: TRANSACTION UNDO
+[2019.03.11-14.38.53:242][852]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.38.56:356][174]Cmd: TRANSACTION UNDO
+[2019.03.11-14.38.56:356][174]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.39.03:678][  5]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Tre04)
+[2019.03.11-14.39.03:699][  5]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.39.12:091][921]Cmd: ACTOR BAKEPREPIVOT
+[2019.03.11-14.39.16:804][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.39.18:953][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tre04)
+[2019.03.11-14.39.21:272][997]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.39.22:094][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tre04)
+[2019.03.11-14.39.24:266][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.39.24:476][346]LogActorFactory: Actor Factory created Tre05
+[2019.03.11-14.39.25:927][502]LogActorFactory: Actor Factory created Tre05
+[2019.03.11-14.39.38:081][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.39.38:610][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tre7)
+[2019.03.11-14.39.40:515][220]Cmd: DELETE
+[2019.03.11-14.39.40:515][220]Cmd: ACTOR DELETE
+[2019.03.11-14.39.40:517][220]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-14.39.40:540][220]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.03.11-14.39.57:632][252]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.39.59:932][520]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.39.59:944][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-14.40.00:064][520]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Level5F674CED4A00E6CDB1C41F9596E183B1.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap'
+[2019.03.11-14.40.00:076][520]LogFileHelpers: Saving map 'Level' took 0.132
+[2019.03.11-14.40.11:351][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.40.15:612][320]LogActorFactory: Actor Factory created Stokk02
+[2019.03.11-14.40.16:935][478]LogActorFactory: Actor Factory created Stokk02
+[2019.03.11-14.40.17:550][551]LogActorFactory: Actor Factory created Stokk02
+[2019.03.11-14.40.26:002][551]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Stokk9)
+[2019.03.11-14.40.26:022][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.40.28:200][749]Cmd: ACTOR BAKEPREPIVOT
+[2019.03.11-14.40.38:449][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.40.38:755][976]LogActorFactory: Actor Factory created Stokk
+[2019.03.11-14.40.39:608][ 65]LogActorFactory: Actor Factory created Stokk
+[2019.03.11-14.40.56:206][ 29]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Stokk10)
+[2019.03.11-14.40.56:226][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.40.59:939][372]Cmd: ACTOR BAKEPREPIVOT
+[2019.03.11-14.41.09:402][488]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.41.14:356][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.41.24:030][273]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.41.24:045][273]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Stein02.fbx)
+[2019.03.11-14.41.24:055][273]LogFbx: Loading FBX Scene from ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Stein02.fbx
+[2019.03.11-14.41.24:060][273]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.11-14.41.25:891][273]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.11-14.41.25:913][273]LogMaterial: Display: Missing cached shader map for material Stone, compiling. 
+[2019.03.11-14.41.25:924][273]LogFbx: Warning: Triangulating static mesh steiner:pCube5
+[2019.03.11-14.41.25:929][273]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.11-14.41.25:929][273]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.11-14.41.25:929][273]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.11-14.41.25:936][273]LogStaticMesh: Building static mesh Stein02...
+[2019.03.11-14.41.25:937][273]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Rock/Stein02.Stein02
+[2019.03.11-14.41.32:185][645]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.41.32:203][645]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Stein.fbx)
+[2019.03.11-14.41.32:213][645]LogFbx: Loading FBX Scene from ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Stein.fbx
+[2019.03.11-14.41.32:220][645]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.11-14.41.33:493][645]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.11-14.41.33:508][645]LogFbx: Warning: Triangulating static mesh steiner:pCube17
+[2019.03.11-14.41.33:520][645]LogStaticMesh: Building static mesh Stein...
+[2019.03.11-14.41.33:521][645]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Rock/Stein.Stein
+[2019.03.11-14.41.38:928][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.41.38:944][875]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Stein03.fbx)
+[2019.03.11-14.41.38:955][875]LogFbx: Loading FBX Scene from ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Stein03.fbx
+[2019.03.11-14.41.38:960][875]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.11-14.41.40:356][875]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.11-14.41.40:370][875]LogFbx: Warning: Triangulating static mesh steiner:pCube1
+[2019.03.11-14.41.40:378][875]LogStaticMesh: Building static mesh Stein03...
+[2019.03.11-14.41.40:378][875]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Rock/Stein03.Stein03
+[2019.03.11-14.41.43:546][178]LogActorFactory: Actor Factory created Stein
+[2019.03.11-14.41.44:871][321]LogActorFactory: Actor Factory created Stein
+[2019.03.11-14.42.11:780][500]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.42.23:438][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.42.23:582][878]LogActorFactory: Actor Factory created Stein03
+[2019.03.11-14.42.24:091][930]LogActorFactory: Actor Factory created Stein03
+[2019.03.11-14.42.30:027][630]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.42.32:469][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein03)
+[2019.03.11-14.42.34:343][131]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.42.39:838][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.42.40:060][786]LogActorFactory: Actor Factory created Rocks_pCube2
+[2019.03.11-14.42.40:723][858]LogActorFactory: Actor Factory created Rocks_pCube2
+[2019.03.11-14.42.45:930][470]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.42.48:106][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rocks_pCube2)
+[2019.03.11-14.42.53:942][410]Cmd: TRANSACTION UNDO
+[2019.03.11-14.42.53:942][410]LogEditorTransaction: Undo Scale Actors
+[2019.03.11-14.42.59:359][ 34]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.43.12:402][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.43.12:559][563]LogActorFactory: Actor Factory created Rocks_pCube2
+[2019.03.11-14.43.13:858][706]LogActorFactory: Actor Factory created Rocks_pCube2
+[2019.03.11-14.43.18:101][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.43.19:240][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rocks_pCube4)
+[2019.03.11-14.43.26:288][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.43.29:494][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rocks_pCube4)
+[2019.03.11-14.43.30:542][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.43.30:694][652]LogActorFactory: Actor Factory created Stein03
+[2019.03.11-14.43.31:445][730]LogActorFactory: Actor Factory created Stein03
+[2019.03.11-14.43.36:190][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.43.37:390][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein4)
+[2019.03.11-14.43.46:920][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.43.53:895][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.43.54:071][347]LogActorFactory: Actor Factory created Stein02
+[2019.03.11-14.43.55:128][456]LogActorFactory: Actor Factory created Stein02
+[2019.03.11-14.44.10:071][226]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Stein02)
+[2019.03.11-14.44.10:093][226]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.44.11:707][378]Cmd: ACTOR BAKEPREPIVOT
+[2019.03.11-14.44.30:555][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.44.35:839][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein02)
+[2019.03.11-14.44.43:644][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.44.47:736][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein3)
+[2019.03.11-14.44.50:361][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.45.32:948][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.45.36:400][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.45.36:413][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-14.45.36:541][ 30]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Level99C2D74C4D50563B6F538A801E5B624B.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap'
+[2019.03.11-14.45.36:553][ 30]LogFileHelpers: Saving map 'Level' took 0.141
+[2019.03.11-14.45.36:577][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Rock/Stein02" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Rock/Stein02.uasset" SILENT=true
+[2019.03.11-14.45.36:587][ 30]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Stein0221D81827463AD17D3D55549EEA7E39CF.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Rock/Stein02.uasset'
+[2019.03.11-14.45.36:615][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Rock/Stone" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Rock/Stone.uasset" SILENT=true
+[2019.03.11-14.45.36:624][ 30]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Stone797E7E20428E8F7BCB89D28A56562459.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Rock/Stone.uasset'
+[2019.03.11-14.45.36:648][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Rock/Stein" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Rock/Stein.uasset" SILENT=true
+[2019.03.11-14.45.36:658][ 30]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/SteinAFE1C6B64D7F3A305D300A91D8F39BBA.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Rock/Stein.uasset'
+[2019.03.11-14.45.36:683][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Rock/Stein03" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Rock/Stein03.uasset" SILENT=true
+[2019.03.11-14.45.36:693][ 30]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Stein0380F163E847A8BEC349A3FCAD63E02F8F.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Rock/Stein03.uasset'
+[2019.03.11-14.48.55:184][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.49.03:678][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tre04)
+[2019.03.11-14.49.27:642][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.49.32:167][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tre7)
+[2019.03.11-14.49.34:424][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.49.45:390][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.49.46:395][344]LogActorFactory: Actor Factory created Busk
+[2019.03.11-14.49.47:735][488]LogActorFactory: Actor Factory created Busk
+[2019.03.11-14.50.08:867][988]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.50.11:991][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Busk)
+[2019.03.11-14.50.21:183][442]Cmd: DELETE
+[2019.03.11-14.50.21:183][442]Cmd: ACTOR DELETE
+[2019.03.11-14.50.21:186][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-14.50.21:208][442]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.03.11-14.50.22:258][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Busk)
+[2019.03.11-14.50.35:561][132]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Busk)
+[2019.03.11-14.50.35:584][132]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.50.38:584][409]Cmd: ACTOR BAKEPREPIVOT
+[2019.03.11-14.50.43:198][955]Cmd: TRANSACTION UNDO
+[2019.03.11-14.50.43:198][955]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.51.08:172][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Busk)
+[2019.03.11-14.51.21:106][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.51.21:667][467]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.52.04:822][603]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.11-14.52.22:104][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.52.22:275][660]LogActorFactory: Actor Factory created Busk
+[2019.03.11-14.52.22:972][734]LogActorFactory: Actor Factory created Busk
+[2019.03.11-14.52.30:444][617]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Busk4)
+[2019.03.11-14.52.30:463][617]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.52.37:550][322]Cmd: ACTOR BAKEPREPIVOT
+[2019.03.11-14.53.06:533][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.53.07:191][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Busk4)
+[2019.03.11-14.53.17:649][ 57]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.53.25:527][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.53.30:629][429]LogActorFactory: Actor Factory created Tre02
+[2019.03.11-14.53.31:338][504]LogActorFactory: Actor Factory created Tre02
+[2019.03.11-14.53.41:477][703]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Tre4)
+[2019.03.11-14.53.41:496][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.53.47:382][298]Cmd: PIVOT CENTERSELECTION
+[2019.03.11-14.53.48:486][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tre4)
+[2019.03.11-14.53.51:656][799]Cmd: TRANSACTION UNDO
+[2019.03.11-14.53.51:656][799]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.53.57:082][423]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Tre4)
+[2019.03.11-14.53.57:100][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.53.59:998][705]Cmd: ACTOR BAKEPREPIVOT
+[2019.03.11-14.54.17:103][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.54.17:178][719]Cmd: MODE SCALEGRID=1
+[2019.03.11-14.54.21:597][237]Cmd: TRANSACTION UNDO
+[2019.03.11-14.54.21:597][237]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.54.26:308][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.54.28:380][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tre4)
+[2019.03.11-14.54.32:327][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tre4)
+[2019.03.11-14.54.46:583][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.55.07:150][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.55.18:018][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.55.18:034][503]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Tree03.fbx)
+[2019.03.11-14.55.18:043][503]LogFbx: Loading FBX Scene from ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Tree03.fbx
+[2019.03.11-14.55.18:050][503]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.11-14.55.19:495][503]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.11-14.55.19:509][503]LogFbx: Warning: Triangulating static mesh tre2:polySurface40
+[2019.03.11-14.55.19:546][503]LogStaticMesh: Building static mesh Tree03...
+[2019.03.11-14.55.19:552][503]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/Tree03.Tree03
+[2019.03.11-14.55.25:601][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-14.55.25:734][104]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/LevelA9B4CEBA49F5DD89A416A5A40BCCCA2B.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap'
+[2019.03.11-14.55.25:746][104]LogFileHelpers: Saving map 'Level' took 0.145
+[2019.03.11-14.55.25:767][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/Tree03" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Tree/Tree03.uasset" SILENT=true
+[2019.03.11-14.55.25:778][104]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Tree0312C47E494EFCED1793C268A3C3EC86BD.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Tree/Tree03.uasset'
+[2019.03.11-14.55.34:055][260]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Tre06.fbx)
+[2019.03.11-14.55.34:066][260]LogFbx: Loading FBX Scene from ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Tre06.fbx
+[2019.03.11-14.55.34:071][260]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.11-14.55.35:400][260]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.11-14.55.35:419][260]LogMaterial: Display: Missing cached shader map for material Tree02, compiling. 
+[2019.03.11-14.55.35:429][260]LogFbx: Warning: Triangulating static mesh tre2:polySurface38
+[2019.03.11-14.55.35:432][260]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.11-14.55.35:432][260]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.11-14.55.35:432][260]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.11-14.55.35:438][260]LogStaticMesh: Building static mesh Tre06...
+[2019.03.11-14.55.35:440][260]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/Tre06.Tre06
+[2019.03.11-14.55.39:712][338]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Tre07.fbx)
+[2019.03.11-14.55.39:721][338]LogFbx: Loading FBX Scene from ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Tre07.fbx
+[2019.03.11-14.55.39:727][338]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.11-14.55.40:955][338]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.11-14.55.40:970][338]LogFbx: Warning: Triangulating static mesh tre2:polySurface35
+[2019.03.11-14.55.40:980][338]LogStaticMesh: Building static mesh Tre07...
+[2019.03.11-14.55.40:982][338]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/Tre07.Tre07
+[2019.03.11-14.55.46:168][471]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Tre08.fbx)
+[2019.03.11-14.55.46:178][471]LogFbx: Loading FBX Scene from ../../../../../../Users/vanja/Documents/Unreal Projects/WitchHunt/Import/Tre08.fbx
+[2019.03.11-14.55.46:183][471]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.11-14.55.47:224][471]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.11-14.55.47:238][471]LogFbx: Warning: Triangulating static mesh busker:pSphere7
+[2019.03.11-14.55.47:253][471]LogStaticMesh: Building static mesh Tre08...
+[2019.03.11-14.55.47:255][471]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/Tre08.Tre08
+[2019.03.11-14.55.50:874][840]LogActorFactory: Actor Factory created Tree03
+[2019.03.11-14.55.51:826][939]LogActorFactory: Actor Factory created Tree03
+[2019.03.11-14.55.57:359][586]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Level01)
+[2019.03.11-14.55.57:393][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.56.00:313][853]Cmd: ACTOR BAKEPREPIVOT
+[2019.03.11-14.56.02:010][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree03)
+[2019.03.11-14.56.11:189][128]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.56.15:296][608]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.56.17:532][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.56.18:404][964]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.56.19:960][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.56.21:546][283]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.56.21:559][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-14.56.21:690][283]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/LevelF9265D0D42C221294BAD9088FB06FE2E.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap'
+[2019.03.11-14.56.21:702][283]LogFileHelpers: Saving map 'Level' took 0.143
+[2019.03.11-14.56.21:723][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/Tre06" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Tree/Tre06.uasset" SILENT=true
+[2019.03.11-14.56.21:733][283]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Tre06346C9BDC4C8CD08EA259E1A9C41116AE.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Tree/Tre06.uasset'
+[2019.03.11-14.56.21:757][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/Tree02" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Tree/Tree02.uasset" SILENT=true
+[2019.03.11-14.56.21:767][283]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Tree0254C790C54D51CBB17BAEE988739D932D.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Tree/Tree02.uasset'
+[2019.03.11-14.56.21:791][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/Tre07" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Tree/Tre07.uasset" SILENT=true
+[2019.03.11-14.56.21:803][283]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Tre0739C7177F4756C67C3FB9C5B01EA9E768.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Tree/Tre07.uasset'
+[2019.03.11-14.56.21:827][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/Tre08" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Tree/Tre08.uasset" SILENT=true
+[2019.03.11-14.56.21:837][283]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Tre08519738E14AD88271C810BAB695F378CD.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Models/Tree/Tre08.uasset'
+[2019.03.11-14.56.24:923][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree03)
+[2019.03.11-14.56.26:152][759]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Tree03)
+[2019.03.11-14.56.26:171][759]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.56.40:192][237]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.56.43:762][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.56.44:098][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.56.44:631][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree03)
+[2019.03.11-14.56.47:627][ 97]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.56.49:304][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree03)
+[2019.03.11-14.56.53:618][795]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.57.00:385][582]Cmd: TRANSACTION UNDO
+[2019.03.11-14.57.00:385][582]LogEditorTransaction: Undo Move Actors
+[2019.03.11-14.57.00:953][633]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-14.57.21:337][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.57.26:926][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.57.27:318][551]LogActorFactory: Actor Factory created Stein
+[2019.03.11-14.57.28:198][639]LogActorFactory: Actor Factory created Stein
+[2019.03.11-14.57.38:016][800]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Stein6)
+[2019.03.11-14.57.38:039][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.57.41:534][127]Cmd: ACTOR BAKEPREPIVOT
+[2019.03.11-14.57.58:991][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.58.01:739][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein6)
+[2019.03.11-14.58.08:662][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.58.09:304][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein6)
+[2019.03.11-14.58.12:069][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein6)
+[2019.03.11-14.58.13:528][886]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Stein6)
+[2019.03.11-14.58.13:550][886]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.58.14:201][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein6)
+[2019.03.11-14.58.19:277][564]Cmd: DELETE
+[2019.03.11-14.58.19:277][564]Cmd: ACTOR DELETE
+[2019.03.11-14.58.19:280][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-14.58.19:304][564]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.03.11-14.58.20:778][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-14.58.20:960][749]LogActorFactory: Actor Factory created Stein03
+[2019.03.11-14.58.22:433][925]LogActorFactory: Actor Factory created Stein03
+[2019.03.11-14.58.30:161][838]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Stein6)
+[2019.03.11-14.58.30:180][838]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-14.58.34:204][226]Cmd: ACTOR BAKEPREPIVOT
+[2019.03.11-14.58.48:971][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.58.49:922][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein6)
+[2019.03.11-14.59.08:794][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein6)
+[2019.03.11-14.59.12:652][750]Cmd: TRANSACTION UNDO
+[2019.03.11-14.59.12:652][750]LogEditorTransaction: Undo Rotate Actors
+[2019.03.11-14.59.13:408][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein7)
+[2019.03.11-14.59.34:344][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein8)
+[2019.03.11-14.59.35:653][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein7)
+[2019.03.11-14.59.40:496][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-14.59.42:417][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein7)
+[2019.03.11-14.59.55:751][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rocks_pCube4)
+[2019.03.11-15.00.05:169][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.00.17:799][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.00.17:958][375]LogActorFactory: Actor Factory created Rocks_pCube5
+[2019.03.11-15.00.18:732][459]LogActorFactory: Actor Factory created Rocks_pCube5
+[2019.03.11-15.00.22:446][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.00.29:968][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rocks_pCube9)
+[2019.03.11-15.00.43:562][375]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.00.46:093][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rocks_pCube11)
+[2019.03.11-15.00.47:133][791]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.00.50:199][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rocks_pCube10)
+[2019.03.11-15.00.50:978][236]Cmd: DELETE
+[2019.03.11-15.00.50:978][236]Cmd: ACTOR DELETE
+[2019.03.11-15.00.50:981][236]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.00.51:004][236]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.03.11-15.00.51:387][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rocks_pCube11)
+[2019.03.11-15.00.51:459][286]Cmd: DELETE
+[2019.03.11-15.00.51:459][286]Cmd: ACTOR DELETE
+[2019.03.11-15.00.51:462][286]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.00.51:484][286]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.03.11-15.00.51:771][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.00.52:219][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rocks_pCube9)
+[2019.03.11-15.00.52:301][370]Cmd: DELETE
+[2019.03.11-15.00.52:301][370]Cmd: ACTOR DELETE
+[2019.03.11-15.00.52:304][370]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.00.52:326][370]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.03.11-15.01.31:679][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.01.31:878][ 62]LogActorFactory: Actor Factory created Stein
+[2019.03.11-15.01.34:486][374]LogActorFactory: Actor Factory created Stein
+[2019.03.11-15.01.35:170][451]Cmd: DELETE
+[2019.03.11-15.01.35:170][451]Cmd: ACTOR DELETE
+[2019.03.11-15.01.35:173][451]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.01.35:195][451]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.03.11-15.01.45:149][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.01.46:497][787]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.01.46:510][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-15.01.46:648][787]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Level9317EAF544A37CBF658B4DB193197DFE.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap'
+[2019.03.11-15.01.46:660][787]LogFileHelpers: Saving map 'Level' took 0.150
+[2019.03.11-15.01.47:446][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.02.03:751][773]LogActorFactory: Actor Factory created Stein02
+[2019.03.11-15.02.04:757][893]LogActorFactory: Actor Factory created Stein02
+[2019.03.11-15.02.16:489][284]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.02.18:659][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein10)
+[2019.03.11-15.02.46:375][827]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.02.47:670][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein10)
+[2019.03.11-15.02.48:508][ 72]Cmd: DELETE
+[2019.03.11-15.02.48:508][ 72]Cmd: ACTOR DELETE
+[2019.03.11-15.02.48:511][ 72]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.02.48:534][ 72]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.03.11-15.02.56:196][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rocks_pCube7)
+[2019.03.11-15.02.57:145][ 95]Cmd: DELETE
+[2019.03.11-15.02.57:145][ 95]Cmd: ACTOR DELETE
+[2019.03.11-15.02.57:148][ 95]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.02.57:171][ 95]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.03.11-15.02.57:650][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rocks_pCube6)
+[2019.03.11-15.02.58:151][207]Cmd: DELETE
+[2019.03.11-15.02.58:151][207]Cmd: ACTOR DELETE
+[2019.03.11-15.02.58:154][207]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.02.58:177][207]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.03.11-15.02.58:587][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rocks_pCube4)
+[2019.03.11-15.02.58:637][257]Cmd: DELETE
+[2019.03.11-15.02.58:637][257]Cmd: ACTOR DELETE
+[2019.03.11-15.02.58:640][257]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.02.58:663][257]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.03.11-15.03.00:021][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein5)
+[2019.03.11-15.03.11:926][825]Cmd: TRANSACTION UNDO
+[2019.03.11-15.03.11:926][825]LogEditorTransaction: Undo Move Actors
+[2019.03.11-15.03.20:975][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.03.28:315][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein4)
+[2019.03.11-15.03.39:956][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.03.48:166][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.04.07:820][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein9)
+[2019.03.11-15.04.30:125][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.04.32:759][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.04.36:408][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein10)
+[2019.03.11-15.04.39:788][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.04.43:487][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rocks_pCube8)
+[2019.03.11-15.04.44:222][659]Cmd: DELETE
+[2019.03.11-15.04.44:222][659]Cmd: ACTOR DELETE
+[2019.03.11-15.04.44:225][659]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.04.44:249][659]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.03.11-15.04.45:177][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein9)
+[2019.03.11-15.04.48:373][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.04.50:041][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein9)
+[2019.03.11-15.04.57:847][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein02)
+[2019.03.11-15.04.59:759][475]Cmd: DELETE
+[2019.03.11-15.04.59:759][475]Cmd: ACTOR DELETE
+[2019.03.11-15.04.59:763][475]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.04.59:786][475]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.03.11-15.05.01:958][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein6)
+[2019.03.11-15.05.02:683][817]Cmd: DELETE
+[2019.03.11-15.05.02:683][817]Cmd: ACTOR DELETE
+[2019.03.11-15.05.02:686][817]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.05.02:708][817]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.03.11-15.05.04:751][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein3)
+[2019.03.11-15.05.21:354][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein5)
+[2019.03.11-15.05.30:907][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.05.42:666][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein3)
+[2019.03.11-15.05.52:808][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein11)
+[2019.03.11-15.06.05:016][162]Cmd: TRANSACTION UNDO
+[2019.03.11-15.06.05:016][162]LogEditorTransaction: Undo Move Actors
+[2019.03.11-15.06.16:480][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein6)
+[2019.03.11-15.06.20:263][953]Cmd: DELETE
+[2019.03.11-15.06.20:263][953]Cmd: ACTOR DELETE
+[2019.03.11-15.06.20:266][953]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.06.20:288][953]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.03.11-15.06.21:864][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein9)
+[2019.03.11-15.06.37:194][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.06.37:531][982]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.06.48:268][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein11)
+[2019.03.11-15.06.50:907][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.07.25:142][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.07.27:401][113]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.07.27:415][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-15.07.27:559][113]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Level2D04CA4247920ABF3B224286FFA90041.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap'
+[2019.03.11-15.07.27:571][113]LogFileHelpers: Saving map 'Level' took 0.156
+[2019.03.11-15.07.38:028][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein12)
+[2019.03.11-15.07.38:555][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein10)
+[2019.03.11-15.07.39:937][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein7)
+[2019.03.11-15.07.55:652][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein13)
+[2019.03.11-15.08.07:392][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein10)
+[2019.03.11-15.08.27:633][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.08.36:449][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein14)
+[2019.03.11-15.08.43:406][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.08.44:269][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein14)
+[2019.03.11-15.08.53:021][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.08.56:267][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein14)
+[2019.03.11-15.08.57:475][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.09.06:663][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein14)
+[2019.03.11-15.09.30:621][571]Cmd: TRANSACTION UNDO
+[2019.03.11-15.09.30:621][571]LogEditorTransaction: Undo Move Actors
+[2019.03.11-15.09.37:523][360]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.09.59:153][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein15)
+[2019.03.11-15.10.19:287][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.10.23:243][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein16)
+[2019.03.11-15.10.24:659][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.10.47:141][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein14)
+[2019.03.11-15.10.52:581][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein11)
+[2019.03.11-15.10.56:764][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.11.01:055][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein10)
+[2019.03.11-15.11.12:248][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.11.14:700][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein17)
+[2019.03.11-15.11.20:411][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.11.24:243][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein17)
+[2019.03.11-15.11.26:528][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein17)
+[2019.03.11-15.11.29:660][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.11.32:360][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein18)
+[2019.03.11-15.11.41:073][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.11.45:246][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein12)
+[2019.03.11-15.11.45:912][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein11)
+[2019.03.11-15.11.48:301][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.11.53:858][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein12)
+[2019.03.11-15.11.55:474][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein11)
+[2019.03.11-15.11.56:675][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein12)
+[2019.03.11-15.12.14:037][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.12.20:281][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein17)
+[2019.03.11-15.12.21:919][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein13)
+[2019.03.11-15.12.29:471][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.12.30:819][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein20)
+[2019.03.11-15.12.34:185][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.12.34:852][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.12.35:253][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein21)
+[2019.03.11-15.12.38:362][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.12.38:839][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.12.39:340][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein21)
+[2019.03.11-15.12.44:444][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.12.45:559][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein22)
+[2019.03.11-15.13.06:587][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.13.13:641][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein22)
+[2019.03.11-15.13.18:273][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.13.23:971][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.13.32:813][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein3)
+[2019.03.11-15.13.41:152][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.13.41:175][949]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.03.11-15.13.43:559][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein5)
+[2019.03.11-15.13.49:261][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.13.52:585][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein9)
+[2019.03.11-15.14.03:277][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.14.11:032][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein10)
+[2019.03.11-15.14.19:407][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.14.19:766][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.14.20:533][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein25)
+[2019.03.11-15.14.36:187][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.14.37:713][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein25)
+[2019.03.11-15.14.38:308][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein25)
+[2019.03.11-15.14.48:090][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.14.50:398][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein25)
+[2019.03.11-15.14.57:794][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.14.59:910][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.15.02:726][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein25)
+[2019.03.11-15.15.14:126][821]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.15.21:065][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein25)
+[2019.03.11-15.15.36:113][393]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.15.37:548][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein25)
+[2019.03.11-15.15.41:015][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.15.42:039][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein25)
+[2019.03.11-15.15.43:339][231]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.15.59:212][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein3)
+[2019.03.11-15.16.24:393][ 54]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.16.29:916][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein26)
+[2019.03.11-15.16.42:578][180]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.16.45:798][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.16.46:149][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein27)
+[2019.03.11-15.16.48:068][808]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.16.49:335][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein27)
+[2019.03.11-15.16.51:400][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein27)
+[2019.03.11-15.16.52:731][346]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.16.54:556][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein27)
+[2019.03.11-15.16.56:897][830]Cmd: TRANSACTION UNDO
+[2019.03.11-15.16.56:897][830]LogEditorTransaction: Undo Move Actors
+[2019.03.11-15.16.59:731][111]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.17.38:639][875]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Level_Auto2E9C7827745DD3F421711FBB028CC0049.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Autosaves/Game/Maps/Level_Auto2.umap'
+[2019.03.11-15.17.38:644][875]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level' took 0.155
+[2019.03.11-15.17.38:644][875]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.155
+[2019.03.11-15.17.51:383][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.17.54:817][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein25)
+[2019.03.11-15.18.15:638][693]Cmd: DELETE
+[2019.03.11-15.18.15:638][693]Cmd: ACTOR DELETE
+[2019.03.11-15.18.15:641][693]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.18.15:663][693]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.03.11-15.18.21:873][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein28)
+[2019.03.11-15.18.31:024][515]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.18.32:647][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein28)
+[2019.03.11-15.18.37:644][292]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.18.38:957][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein28)
+[2019.03.11-15.18.48:324][551]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.18.50:408][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein28)
+[2019.03.11-15.18.53:756][188]Cmd: TRANSACTION UNDO
+[2019.03.11-15.18.53:756][188]LogEditorTransaction: Undo Scale Actors
+[2019.03.11-15.18.55:698][403]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.18.58:837][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein28)
+[2019.03.11-15.19.01:075][ 25]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.19.02:940][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein28)
+[2019.03.11-15.19.10:600][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.19.52:198][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein28)
+[2019.03.11-15.19.58:271][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.20.06:746][215]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.20.08:206][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein25)
+[2019.03.11-15.20.12:478][555]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.20.18:239][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein18)
+[2019.03.11-15.20.19:795][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.20.26:005][361]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.20.27:430][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein17)
+[2019.03.11-15.20.32:159][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.20.35:657][935]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.22.27:710][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein17)
+[2019.03.11-15.22.28:684][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.22.36:223][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein18)
+[2019.03.11-15.22.37:140][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.22.41:928][512]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.22.42:640][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein28)
+[2019.03.11-15.22.44:368][654]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.22.49:169][941]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.22.51:230][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein28)
+[2019.03.11-15.22.52:627][144]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.23.03:876][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein10)
+[2019.03.11-15.23.11:015][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.23.11:811][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein29)
+[2019.03.11-15.23.28:610][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.23.29:655][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein29)
+[2019.03.11-15.23.31:477][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.23.33:809][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein29)
+[2019.03.11-15.23.41:032][ 14]Cmd: TRANSACTION UNDO
+[2019.03.11-15.23.41:032][ 14]LogEditorTransaction: Undo Rotate Actors
+[2019.03.11-15.23.41:819][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.23.43:043][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein29)
+[2019.03.11-15.23.44:550][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.23.48:351][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein27)
+[2019.03.11-15.24.30:474][953]Cmd: DELETE
+[2019.03.11-15.24.30:474][953]Cmd: ACTOR DELETE
+[2019.03.11-15.24.30:478][953]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.24.30:499][953]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.03.11-15.24.34:939][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein30)
+[2019.03.11-15.24.37:516][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.24.44:866][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.24.46:543][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein11)
+[2019.03.11-15.24.58:141][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.25.01:490][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein12)
+[2019.03.11-15.25.02:178][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein13)
+[2019.03.11-15.25.17:975][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.25.19:453][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein32)
+[2019.03.11-15.25.21:501][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.25.25:231][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein31)
+[2019.03.11-15.25.30:616][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.25.35:583][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein32)
+[2019.03.11-15.25.39:679][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.25.42:589][225]Cmd: TRANSACTION UNDO
+[2019.03.11-15.25.42:589][225]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.11-15.25.42:933][244]Cmd: TRANSACTION UNDO
+[2019.03.11-15.25.42:934][244]LogEditorTransaction: Undo Scale Actors
+[2019.03.11-15.25.49:612][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein30)
+[2019.03.11-15.25.52:793][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.25.59:516][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein19)
+[2019.03.11-15.26.11:744][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.26.14:906][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein33)
+[2019.03.11-15.26.21:031][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein5)
+[2019.03.11-15.26.44:254][889]Cmd: TRANSACTION UNDO
+[2019.03.11-15.26.44:254][889]LogEditorTransaction: Undo Scale Actors
+[2019.03.11-15.26.44:653][913]Cmd: TRANSACTION UNDO
+[2019.03.11-15.26.44:653][913]LogEditorTransaction: Undo Scale Actors
+[2019.03.11-15.26.47:366][ 75]Cmd: DELETE
+[2019.03.11-15.26.47:366][ 75]Cmd: ACTOR DELETE
+[2019.03.11-15.26.47:370][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.26.47:393][ 75]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.03.11-15.26.49:702][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein16)
+[2019.03.11-15.27.04:122][ 73]Cmd: DELETE
+[2019.03.11-15.27.04:122][ 73]Cmd: ACTOR DELETE
+[2019.03.11-15.27.04:125][ 73]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.27.04:149][ 73]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.03.11-15.27.06:692][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein18)
+[2019.03.11-15.27.08:451][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein14)
+[2019.03.11-15.27.09:271][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein13)
+[2019.03.11-15.27.09:759][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein12)
+[2019.03.11-15.27.10:463][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein11)
+[2019.03.11-15.27.44:814][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.27.53:283][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein27)
+[2019.03.11-15.27.54:254][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein3)
+[2019.03.11-15.28.04:816][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.28.06:665][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein35)
+[2019.03.11-15.28.22:815][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein35)
+[2019.03.11-15.28.28:630][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.28.30:474][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein35)
+[2019.03.11-15.28.37:390][612]Cmd: DELETE
+[2019.03.11-15.28.37:390][612]Cmd: ACTOR DELETE
+[2019.03.11-15.28.37:393][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.28.37:417][612]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.03.11-15.28.38:706][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein31)
+[2019.03.11-15.28.50:204][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.28.54:888][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein26)
+[2019.03.11-15.28.59:329][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.29.04:430][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein27)
+[2019.03.11-15.29.06:587][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.29.10:336][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein11)
+[2019.03.11-15.29.17:718][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.29.22:813][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein12)
+[2019.03.11-15.29.23:585][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.29.24:552][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein12)
+[2019.03.11-15.29.35:127][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.29.37:407][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein37)
+[2019.03.11-15.29.38:893][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.29.42:124][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein14)
+[2019.03.11-15.29.46:257][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.29.47:064][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein38)
+[2019.03.11-15.29.48:753][817]Cmd: DELETE
+[2019.03.11-15.29.48:753][817]Cmd: ACTOR DELETE
+[2019.03.11-15.29.48:758][817]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-15.29.48:782][817]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.03.11-15.29.52:322][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein38)
+[2019.03.11-15.30.02:475][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.30.06:440][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein21)
+[2019.03.11-15.30.16:809][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.30.19:092][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein39)
+[2019.03.11-15.30.20:352][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.30.27:326][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein17)
+[2019.03.11-15.30.43:457][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.30.45:870][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein40)
+[2019.03.11-15.30.51:427][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.30.55:556][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein40)
+[2019.03.11-15.31.05:034][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.31.07:778][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein40)
+[2019.03.11-15.31.13:634][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.31.18:480][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein9)
+[2019.03.11-15.31.31:612][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.31.44:112][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.31.44:282][665]LogActorFactory: Actor Factory created Stein03
+[2019.03.11-15.31.44:935][704]LogActorFactory: Actor Factory created Stein03
+[2019.03.11-15.31.47:846][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.31.48:923][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein42)
+[2019.03.11-15.31.55:025][300]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.32.05:907][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.32.06:061][960]LogActorFactory: Actor Factory created Rocks_pCube5
+[2019.03.11-15.32.07:198][ 28]LogActorFactory: Actor Factory created Rocks_pCube5
+[2019.03.11-15.32.10:412][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.32.16:839][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.32.17:026][611]LogActorFactory: Actor Factory created Stein
+[2019.03.11-15.32.17:862][661]LogActorFactory: Actor Factory created Stein
+[2019.03.11-15.32.28:695][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.32.29:620][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein43)
+[2019.03.11-15.32.32:528][531]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.32.40:139][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.32.41:243][ 52]LogActorFactory: Actor Factory created Blomst02
+[2019.03.11-15.32.42:714][140]LogActorFactory: Actor Factory created Blomst02
+[2019.03.11-15.33.02:555][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.33.03:414][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blomst25)
+[2019.03.11-15.33.25:650][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.33.28:039][835]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.33.28:057][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-15.33.28:226][835]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/Level79D34E7743A5A7A2DA47F9B66F919C30.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap'
+[2019.03.11-15.33.28:241][835]LogFileHelpers: Saving map 'Level' took 0.184
+[2019.03.11-15.33.37:549][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blomst29)
+[2019.03.11-15.34.27:549][382]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.34.28:141][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blomst32)
+[2019.03.11-15.34.29:620][502]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.34.30:427][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blomst32)
+[2019.03.11-15.34.31:841][631]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.34.32:816][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.34.33:326][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blomst32)
+[2019.03.11-15.34.34:704][795]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.34.36:045][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.34.36:423][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.34.36:949][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blomst32)
+[2019.03.11-15.34.41:698][206]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.34.48:190][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.34.48:683][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blomst32)
+[2019.03.11-15.34.55:967][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.35.05:758][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.35.06:340][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.35.06:764][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.35.11:891][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.35.13:211][ 83]LogActorFactory: Actor Factory created Stein
+[2019.03.11-15.35.14:264][146]LogActorFactory: Actor Factory created Stein
+[2019.03.11-15.35.18:489][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blomst32)
+[2019.03.11-15.35.22:890][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein44)
+[2019.03.11-15.35.27:824][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein44)
+[2019.03.11-15.35.28:868][ 13]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Level01)
+[2019.03.11-15.35.28:905][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.35.29:949][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein44)
+[2019.03.11-15.35.34:274][329]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Stein44)
+[2019.03.11-15.35.34:293][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.35.36:953][487]Cmd: ACTOR BAKEPREPIVOT
+[2019.03.11-15.35.42:732][833]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.35.46:074][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stein44)
+[2019.03.11-15.35.47:884][138]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.36.04:598][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.36.05:787][210]LogActorFactory: Actor Factory created Blomst
+[2019.03.11-15.36.06:524][254]LogActorFactory: Actor Factory created Blomst
+[2019.03.11-15.36.12:136][587]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Blomst33)
+[2019.03.11-15.36.12:158][587]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.36.14:842][746]Cmd: ACTOR BAKEPREPIVOT
+[2019.03.11-15.36.34:916][942]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.36.41:536][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.36.43:912][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.36.43:926][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level" FILE="../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-15.36.44:089][478]LogSavePackage: Moving '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Saved/LevelE718DAAB45C6CC4AA2AF01B87C1EDF95.tmp' to '../../../../../../Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level.umap'
+[2019.03.11-15.36.44:101][478]LogFileHelpers: Saving map 'Level' took 0.176
+[2019.03.11-15.40.17:009][367]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.40.51:815][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.41.28:502][540]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.41.53:016][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.42.08:438][927]LogSlate: Window 'Save Level As' being destroyed
+[2019.03.11-15.42.12:388][161]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.42.12:912][192]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-15.42.20:077][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.42.29:138][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level01)
+[2019.03.11-15.42.35:706][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.42.38:041][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.42.45:697][695]LogSlate: Window 'Save Level As' being destroyed
+[2019.03.11-15.59.02:188][882]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.59.18:332][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-15.59.32:474][ 10]LogSlate: Window 'FBX Export Options' being destroyed
+[2019.03.11-15.59.32:599][ 10]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2019.03.11-15.59.45:256][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-15.59.45:336][694]AssetReimport: New page: Detailed File System Changes from 16.59.45
+[2019.03.11-15.59.45:348][694]AssetReimport: 'C:/Users/vanja/Documents/Unreal Projects/Witch_Hunt/Content/Maps/Level_WitchHunt.fbx' has been created.
+[2019.03.11-15.59.49:085][918]LogSlate: Window 'Message Log' being destroyed
+[2019.03.11-15.59.49:091][918]LogSlate: Window 'Message Log' being destroyed
+[2019.03.11-15.59.50:012][973]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-16.00.17:486][258]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2019.03.11-16.00.17:487][258]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.11-16.00.17:665][259]Cmd: QUIT_EDITOR
+[2019.03.11-16.00.17:702][259]LogExit: Preparing to exit.
+[2019.03.11-16.00.18:334][259]LogExit: Editor shut down
+[2019.03.11-16.00.18:335][259]LogExit: Transaction tracking system shut down
+[2019.03.11-16.00.18:460][259]LogExit: Object subsystem successfully closed.
+[2019.03.11-16.00.18:477][259]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.11-16.00.18:480][259]LogD3D11RHI: Shutdown
+[2019.03.11-16.00.18:480][259]LogD3D11RHI: CleanupD3DDevice
+[2019.03.11-16.00.18:483][259]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.11-16.00.18:506][259]LogModuleManager: Shutting down and abandoning module MeshBuilder (626)
+[2019.03.11-16.00.18:506][259]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.03.11-16.00.18:506][259]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.03.11-16.00.18:506][259]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.03.11-16.00.18:506][259]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.03.11-16.00.18:506][259]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.03.11-16.00.18:506][259]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.03.11-16.00.18:507][259]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.03.11-16.00.18:508][259]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.03.11-16.00.18:508][259]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.03.11-16.00.18:508][259]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.03.11-16.00.18:508][259]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.03.11-16.00.18:508][259]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.03.11-16.00.18:508][259]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.03.11-16.00.18:508][259]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.03.11-16.00.18:508][259]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.03.11-16.00.18:508][259]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.03.11-16.00.18:508][259]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.03.11-16.00.18:508][259]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.03.11-16.00.18:508][259]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.03.11-16.00.18:508][259]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.03.11-16.00.19:262][259]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.03.11-16.00.19:262][259]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.03.11-16.00.19:262][259]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.03.11-16.00.19:262][259]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.03.11-16.00.19:262][259]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.03.11-16.00.19:262][259]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.03.11-16.00.19:262][259]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.03.11-16.00.19:262][259]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.03.11-16.00.19:262][259]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.03.11-16.00.19:263][259]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.03.11-16.00.19:263][259]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.03.11-16.00.19:263][259]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.03.11-16.00.19:263][259]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.03.11-16.00.19:263][259]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.03.11-16.00.19:263][259]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.03.11-16.00.19:263][259]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.03.11-16.00.19:263][259]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.03.11-16.00.19:263][259]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.03.11-16.00.19:263][259]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.03.11-16.00.19:263][259]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.03.11-16.00.19:263][259]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.03.11-16.00.19:263][259]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.03.11-16.00.19:263][259]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.03.11-16.00.19:328][259]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.03.11-16.00.19:329][259]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.03.11-16.00.19:333][259]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.03.11-16.00.19:453][259]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.03.11-16.00.19:457][259]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.03.11-16.00.19:458][259]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.03.11-16.00.19:458][259]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.03.11-16.00.19:458][259]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.03.11-16.00.19:559][259]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.03.11-16.00.19:659][259]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.03.11-16.00.19:659][259]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.03.11-16.00.19:659][259]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.03.11-16.00.19:659][259]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.03.11-16.00.19:659][259]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.03.11-16.00.19:659][259]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.03.11-16.00.19:659][259]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.03.11-16.00.19:659][259]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.03.11-16.00.19:659][259]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.03.11-16.00.19:660][259]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.03.11-16.00.19:660][259]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.03.11-16.00.19:660][259]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.03.11-16.00.19:661][259]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.03.11-16.00.19:661][259]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.03.11-16.00.19:661][259]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.03.11-16.00.19:661][259]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.03.11-16.00.19:661][259]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.03.11-16.00.19:661][259]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.03.11-16.00.19:661][259]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.03.11-16.00.19:665][259]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.03.11-16.00.19:671][259]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.03.11-16.00.19:671][259]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.03.11-16.00.19:671][259]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.03.11-16.00.19:672][259]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.03.11-16.00.19:673][259]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.03.11-16.00.19:673][259]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.03.11-16.00.19:673][259]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.03.11-16.00.19:673][259]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.03.11-16.00.19:673][259]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.03.11-16.00.19:673][259]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.03.11-16.00.19:673][259]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.03.11-16.00.19:673][259]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.03.11-16.00.19:674][259]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.03.11-16.00.19:674][259]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.03.11-16.00.19:674][259]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.03.11-16.00.19:674][259]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.03.11-16.00.19:674][259]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.03.11-16.00.19:674][259]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.03.11-16.00.19:674][259]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.03.11-16.00.19:674][259]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.03.11-16.00.19:674][259]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.03.11-16.00.19:674][259]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.03.11-16.00.19:696][259]LogDerivedDataCache: Shutdown
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.03.11-16.00.19:697][259]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.03.11-16.00.19:698][259]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.03.11-16.00.19:698][259]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.03.11-16.00.19:698][259]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.03.11-16.00.19:698][259]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.03.11-16.00.19:698][259]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.03.11-16.00.19:699][259]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.03.11-16.00.19:700][259]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.03.11-16.00.19:701][259]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.03.11-16.00.19:701][259]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.03.11-16.00.19:710][259]LogHMD: Freeing OpenVRDLLHandle.
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.03.11-16.00.19:710][259]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.03.11-16.00.19:711][259]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.03.11-16.00.19:711][259]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.03.11-16.00.19:721][259]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.03.11-16.00.19:721][259]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.11-16.00.19:721][259]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B50A78366-415F-002C-EDB4-13AABCE65B32%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=eca3f60f4d758c8c82a1bf93810d796b%7Cf4f83e8025874b289a0caa5874d098f8%7C70b9635a-cf47-44a3-882d-1b25e2d3c7c1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.11-16.00.19:735][259]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.03.11-16.00.19:736][259]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.03.11-16.00.19:736][259]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.03.11-16.00.19:736][259]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.03.11-16.00.19:736][259]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.03.11-16.00.19:736][259]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.03.11-16.00.19:736][259]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.03.11-16.00.19:736][259]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.03.11-16.00.19:736][259]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.11-16.00.19:736][259]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.03.11-16.00.19:736][259]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.03.11-16.00.19:736][259]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.11-16.00.19:736][259]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.11-16.00.19:736][259]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.11-16.00.19:736][259]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.11-16.00.19:737][259]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.11-16.00.19:737][259]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.11-16.00.19:737][259]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.11-16.00.19:737][259]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.11-16.00.19:737][259]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.11-16.00.19:737][259]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.11-16.00.19:737][259]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.11-16.00.19:737][259]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.11-16.00.19:737][259]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.11-16.00.19:737][259]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.11-16.00.19:737][259]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.11-16.00.19:737][259]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.11-16.00.19:737][259]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.11-16.00.19:737][259]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.11-16.00.19:748][259]LogExit: Exiting.
+[2019.03.11-16.00.19:765][259]Log file closed, 03/11/19 17:00:19
